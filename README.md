@@ -1,23 +1,9 @@
 ## Hi there 👋
-###### I'm still a newbie, but I really enjoy learning and trying out new things. I'm not afraid to make mistakes, that's how I grow!
+###### 💥 I'm still a newbie, but I really enjoy learning and trying out new things. I'm not afraid to make mistakes, that's how I grow!
 
-###### Always looking for ways to improve and expand my knowledge, step by step.
+###### 💥 Always looking for ways to improve and expand my knowledge, step by step.
 
-###### If you've got tips, advice, or cool ideas to share, I'm all ears! 😊
+###### 💥 If you've got tips, advice, or cool ideas to share, I'm all ears! 😊
 
-Telegram: @Dotycat
+###### 💥 Telegram: @Dotycat
 
-<!--
-**dotywrt/DOTYWRT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
