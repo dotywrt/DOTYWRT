@@ -5,6 +5,6 @@
 
 💥 If you've got tips, advice, or cool ideas to share, I'm all ears! 😊
 
-💥 Telegram: @Dotycat
+💥 Telegram: @Dotycatv2
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dotywrt&label=Profile%20views&color=0e75b6&style=flat)
